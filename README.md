@@ -1,6 +1,6 @@
 # Hey Coders! 👋
 
-![](https://media.giphy.com/media/cOzK12kNVHoiOLYX6P/giphy.gif)
+[](https://media.giphy.com/media/cOzK12kNVHoiOLYX6P/giphy.gif)
 
 I'm Yaroslav, a coding enthusiast diving into the vast ocean of Python with a side quest exploring the magic of Solidity.  🚀 Join me in this thrilling coding adventure 🚀
 
