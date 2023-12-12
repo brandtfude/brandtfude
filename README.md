@@ -1,5 +1,7 @@
 # Hey Coders! 👋
 
+![](https://giphy.com/gifs/80s-synthwave-aesthetic-cOzK12kNVHoiOLYX6P)
+
 I'm Yaroslav, a coding enthusiast diving into the vast ocean of Python with a side quest exploring the magic of Solidity.  🚀 Join me in this thrilling coding adventure 🚀
 
 ## Tech Toolbox:
