@@ -1,6 +1,6 @@
 # Hey Coders! 👋
 
-I'm Yaroslav, a coding enthusiast diving into the vast ocean of Python with a side quest exploring the magic of Solidity. 🚀 Join me in this thrilling coding adventure:
+I'm Yaroslav, a coding enthusiast diving into the vast ocean of Python with a side quest exploring the magic of Solidity.  🚀 Join me in this thrilling coding adventure 🚀
 
 ## Tech Toolbox:
 - 🐍 Python | 🌐 Solidity | 🧠 Algorithms & Data Structures
